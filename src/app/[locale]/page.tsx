@@ -1,7 +1,9 @@
+import Component from './Component';
+
 export default function Home() {
   return (
     <main>
-      <div>Hello world!</div>
+      <Component />
     </main>
   );
 }
